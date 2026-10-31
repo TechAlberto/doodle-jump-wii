@@ -1,0 +1,9 @@
+# devkitPro build output
+build/
+*.dol
+*.elf
+*.map
+
+# Python tooling
+__pycache__/
+*.pyc
